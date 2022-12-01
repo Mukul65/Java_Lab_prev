@@ -4,6 +4,7 @@
 
 //Write a Java Program using Swing to design a GUI to input Name,Gender,10th mark percentage 12th mark percentage and specialization for an applicant.When an applicant fill all the information and click on apply button the status bar should show eligible if the candidate is a female having 70% through out carrier and with ‘CSE’ as specialization. Otherwise, it should show ‘Not Eligible’.
 
+
 package com.mukul;
 
 import java.awt.*;
