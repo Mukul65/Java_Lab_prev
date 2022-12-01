@@ -1,6 +1,6 @@
-//Write a Java Program using Swing to design a GUI to input i) Name ii) Gender iii) 10 th
-//mark percentage iv) 12th marks percentage v) Graduation marks percengate and vi)
-//specialization for an applicant.
+//Write a Java Program using Swing to design a GUI to input i) Name ii) Gender 
+//iii) 10 th mark percentage iv) 12th marks percentage v) Graduation marks percengate and
+//vi)specialization for an applicant.
 
 //Write a Java Program using Swing to design a GUI to input Name,Gender,10th mark percentage 12th mark percentage and specialization for an applicant.When an applicant fill all the information and click on apply button the status bar should show eligible if the candidate is a female having 70% through out carrier and with ‘CSE’ as specialization. Otherwise, it should show ‘Not Eligible’.
 
@@ -145,7 +145,6 @@ public class set01 extends JFrame implements ActionListener
         new set01();
     }
 }
-
 
 
 
